@@ -18,7 +18,7 @@ body {
   box-sizing: border-box;
   border-radius: 0;
   background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
-    url("https://www.mccormick.northwestern.edu/images/news/2023/07/what-does-a-twinkling-star-sound-like-take-a-listen-social.jpg");
+    url("./bg.jpg");
   background-size: cover;
   background-position: center;
   transition: background-color 0.3s;
